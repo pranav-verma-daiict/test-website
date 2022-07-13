@@ -5,26 +5,26 @@ I am Pranav verma, { put the career objective thingy }
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### ** Academic Record **
+## ** Academic Record **
 
-## ** Degree-4: ** Subject/Topic, university, location, country
+### ** Degree-4: ** Subject/Topic, university, location, country
 
-## ** Degree-3: ** Subject/Topic, university, location, country
+### ** Degree-3: ** Subject/Topic, university, location, country
 
-## ** Degree-2: ** Subject/Topic, university, location, country
+### ** Degree-2: ** Subject/Topic, university, location, country
 
-## ** Degree-1: ** Subject/Topic, university, location, country
+### ** Degree-1: ** Subject/Topic, university, location, country
 
 
 ## ** Work Experience **
 
-# ** Job-4: ** Job title, Organization, location, country
+### ** Job-4: ** Job title, Organization, location, country
 
-# ** Job-3: ** Job title, Organization, location, country
+### ** Job-3: ** Job title, Organization, location, country
 
-# ** Job-2: ** Job title, Organization, location, country
+### ** Job-2: ** Job title, Organization, location, country
 
-# ** Job-1: ** Job title, Organization, location, country
+### ** Job-1: ** Job title, Organization, location, country
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
