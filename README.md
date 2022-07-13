@@ -1,14 +1,14 @@
 ## Welcome to Pranav's page
 
-I am Pranav verma, { put some academic details}
+I am Pranav verma, { put the career objective thingy }
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Academic Record
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+*This should be in bold* _This should be in italics_
 ```markdown
 Syntax highlighted code block
 
