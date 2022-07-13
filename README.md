@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Academic Record
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-*This should be in bold* _This should be in italics_
+**This should be in bold** _This should be in italics_
 ```markdown
 Syntax highlighted code block
 
