@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Pranav's page
 
-You can use the [editor on GitHub](https://github.com/pranav-verma-daiict/test-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Pranav verma, { put some academic details}
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
