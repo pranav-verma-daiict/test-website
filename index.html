@@ -638,7 +638,7 @@
 							<div id="research" role="contentinfo">
 							<div class="row">
                                     <section class="achievements graybg">
-                                        <div class="section-title top_15"><span></span><h2>Research Work</h2></div>
+                                        <div class="section-title top_15"><span></span><h2>Privacy-Preserving Recommender Systems </h2></div>
 										<br> <br>
 										A recommendation system collects user preferences and suggests the new unseen but relevant items from the inventory. Many recommender systems collect sensitive information from their users, like financial or medical data. This raises privacy concerns among the users who would not be interested in using such services. To mitigate this, researchers came up with privacy-preserving recommender systems (PPRS). There are various ways to protect user privacy, in this thesis we have focused on encryption-based privacy-preserving recommender system (EBPPRS). Such schemes use homomorphic encryption (HE) to protect user preferences while allowing to perform computations over the encrypted user data. We explore the existing literature and identified key issues that has not been given enough attention so far. In the available literature, the primary focus is on designing computationally efficient PPRS models that uses homomorphic encryption. We identified some performance and privacy concerns in the previous approaches and have suggested solutions for the same.
                                         <ul class="ach-list">
@@ -651,13 +651,25 @@
                                             <li> <b> Private rating update </b> <br>
 												In a recommendation system there can be thousands of items and usually a user rates very few of them. A PPRS should protect the details that which items a user has rated as it can reveal user's interest to a particular category of items. We noticed that to hide the relationship between users and the items they have rated, users were required to send their entire rating vector to the server. This puts a significant cost overhead on the user-side devices as it is required to encrypt ratings for all the items in the system. Usually un-rated items are given value as $0$. This is similar to the classical PIR-write problem where a user wants to write some information at the server side storage without letting the server know which block of information was updated. We proposed a solution where users need to send only the ratings and index of the items they want to rate, the rest of the computation is server-side. <br><br>
 												
-												<b>Verma, P. </b>, Vaishnav, H., Mathuria, A., and Dasgupta, S. (2019, January), An Enhanced Privacy-Preserving Recommender System. In International Conference on Security \& Privacy (pp. 247-260). Springer, Singapore  <strong><a href="https://doi.org/10.1016/j.compag.2021.105986" title="Disease and pest infection detection in coconut tree through deep learning techniques"
+												<b>Verma, P.</b>, Vaishnav, H., Mathuria, A., and Dasgupta, S. (2019, January), An Enhanced Privacy-Preserving Recommender System. In International Conference on Security \& Privacy (pp. 247-260). Springer, Singapore  <strong><a href="https://doi.org/10.1016/j.compag.2021.105986" title="Disease and pest infection detection in coconut tree through deep learning techniques"
 												 target="_blank" rel="noopener">'https://doi.org/10.1016/j.compag.2021.105986' <i class="fa fa-external-link"></i></a></strong>
 											</li>
                                             <li> <b> Private top-k recommendation </b> <br>
 												The next problem we recognized is that once the server has generated recommendations, it should send top-k most relevant items to the user. Here to hide which items are being recommended to a user, the server sends rating vector for the entire item list, and top-k filtering is done by the user. This is again an expensive design, and to our surprise this issue has not been discussed enough in the literature. We note that this issue is different than the well-known. We address this problem and propose a solution using private sorting using partial homomorphic encryption scheme. <br><br>
 												
-												<b>Verma, P. </b>, Vaishnav, H., Mathuria, A., and Dasgupta, S. (2019, January), An Enhanced Privacy-Preserving Recommender System. In International Conference on Security \& Privacy (pp. 247-260). Springer, Singapore  <strong><a href="https://doi.org/10.1016/j.compag.2021.105986" title="Disease and pest infection detection in coconut tree through deep learning techniques"
+												<b>Verma, P.</b>, Vaishnav, H., Mathuria, A., and Dasgupta, S. (2019, January), An Enhanced Privacy-Preserving Recommender System. In International Conference on Security \& Privacy (pp. 247-260). Springer, Singapore  <strong><a href="https://doi.org/10.1016/j.compag.2021.105986" title="Disease and pest infection detection in coconut tree through deep learning techniques"
+												 target="_blank" rel="noopener">'https://doi.org/10.1016/j.compag.2021.105986' <i class="fa fa-external-link"></i></a></strong>
+											</li>
+                                            <li> <b> Honeypot: A survey of recent work </b> <br>
+												The paper with M. Tech. student. <br><br>
+												
+												<b>Verma, P.</b>, Vaishnav, H., Mathuria, A., and Dasgupta, S. (2019, January), An Enhanced Privacy-Preserving Recommender System. In International Conference on Security \& Privacy (pp. 247-260). Springer, Singapore  <strong><a href="https://doi.org/10.1016/j.compag.2021.105986" title="Disease and pest infection detection in coconut tree through deep learning techniques"
+												 target="_blank" rel="noopener">'https://doi.org/10.1016/j.compag.2021.105986' <i class="fa fa-external-link"></i></a></strong>
+											</li>
+                                            <li> <b> Quantum cryptography: A literature survey of the existing systems </b> <br>
+												The paper I wrote during my M. Tech. <br><br>
+												
+												<b>Verma, P.</b>, Vaishnav, H., Mathuria, A., and Dasgupta, S. (2019, January), An Enhanced Privacy-Preserving Recommender System. In International Conference on Security \& Privacy (pp. 247-260). Springer, Singapore  <strong><a href="https://doi.org/10.1016/j.compag.2021.105986" title="Disease and pest infection detection in coconut tree through deep learning techniques"
 												 target="_blank" rel="noopener">'https://doi.org/10.1016/j.compag.2021.105986' <i class="fa fa-external-link"></i></a></strong>
 											</li>
                                         </ul>
